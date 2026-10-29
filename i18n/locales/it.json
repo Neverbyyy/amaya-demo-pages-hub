@@ -23,5 +23,6 @@
   "a.gift_card.common.gift_card_howto_link": "Istruzioni dettagliate qui: {link}",
   "a.gift_card.common.gift_card_qr": "Ottieni la tua prima app!",
   "a.gift_card.common.gift_card_goto_apps": "Scarica",
-  "a.gift_card.common.gift_card_instructions_button": "Istruzioni"
+  "a.gift_card.common.gift_card_instructions_button": "Istruzioni",
+  "common.button.continue.default": "Continua"
 }
