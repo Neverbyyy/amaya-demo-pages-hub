@@ -23,6 +23,5 @@
   "a.gift_card.common.gift_card_howto_link": "Detaljerade instruktioner här: {link}",
   "a.gift_card.common.gift_card_qr": "Skaffa din första app!",
   "a.gift_card.common.gift_card_goto_apps": "Ladda ner",
-  "a.gift_card.common.gift_card_instructions_button": "Instruktioner",
-  "common.button.continue.default": "Fortsätt"
+  "a.gift_card.common.gift_card_instructions_button": "Instruktioner"
 }
