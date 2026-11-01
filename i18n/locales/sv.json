@@ -23,5 +23,9 @@
   "a.gift_card.common.gift_card_howto_link": "Detaljerade instruktioner här: {link}",
   "a.gift_card.common.gift_card_qr": "Skaffa din första app!",
   "a.gift_card.common.gift_card_goto_apps": "Ladda ner",
-  "a.gift_card.common.gift_card_instructions_button": "Instruktioner"
+  "a.gift_card.common.gift_card_instructions_button": "Instruktioner",
+  "common.button.restore": "Återställa köp",
+  "common.legal.cancel_anytime": "Avsluta när som helst",
+  "common.link.privacy_policy": "Integritetspolicy",
+  "common.link.terms_of_use": "Användarvillkor"
 }

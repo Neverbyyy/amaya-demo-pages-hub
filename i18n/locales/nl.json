@@ -23,5 +23,9 @@
   "a.gift_card.common.gift_card_howto_link": "Gedetailleerde instructies hier: {link}",
   "a.gift_card.common.gift_card_qr": "Haal uw eerste app!",
   "a.gift_card.common.gift_card_goto_apps": "Downloaden",
-  "a.gift_card.common.gift_card_instructions_button": "Instructies"
+  "a.gift_card.common.gift_card_instructions_button": "Instructies",
+  "common.button.restore": "Herstel aankopen",
+  "common.legal.cancel_anytime": "Op ieder moment opzegbaar",
+  "common.link.privacy_policy": "Privacybeleid",
+  "common.link.terms_of_use": "Gebruiksvoorwaarden"
 }

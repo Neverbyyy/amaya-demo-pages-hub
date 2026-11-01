@@ -23,5 +23,9 @@
   "a.gift_card.common.gift_card_howto_link": "You can find detailed instructions here: {link}",
   "a.gift_card.common.gift_card_qr": "Get your first app!",
   "a.gift_card.common.gift_card_goto_apps": "Download",
-  "a.gift_card.common.gift_card_instructions_button": "Instructions"
+  "a.gift_card.common.gift_card_instructions_button": "Instructions",
+  "common.button.restore": "Restore purchases",
+  "common.legal.cancel_anytime": "Cancel anytime",
+  "common.link.privacy_policy": "Privacy Policy",
+  "common.link.terms_of_use": "Terms of Useasd"
 }

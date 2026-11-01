@@ -23,5 +23,9 @@
   "a.gift_card.common.gift_card_howto_link": "Подробная инструкция здесь: {link}",
   "a.gift_card.common.gift_card_qr": "Получите первое приложение!",
   "a.gift_card.common.gift_card_goto_apps": "Скачатьd",
-  "a.gift_card.common.gift_card_instructions_button": "Инструкция"
+  "a.gift_card.common.gift_card_instructions_button": "Инструкция",
+  "common.button.restore": "Восстановить покупки",
+  "common.legal.cancel_anytime": "Можно отменить в любое время",
+  "common.link.privacy_policy": "Политика конфиденциальности",
+  "common.link.terms_of_use": "Пользовательское соглашение"
 }
